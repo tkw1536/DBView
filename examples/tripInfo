@@ -1,0 +1,37 @@
+{
+  "tripDate":"2017-10-24",
+  "trainType":"ICE",
+  "vzn":"635",
+  "actualPosition":0,
+  "distanceFromLastStop":204,
+  "totalDistance":499468,
+  "stopInfo":
+    {
+      "scheduledNext":"8000152_00",
+      "actualNext":"8000152_00",
+      "actualLast":"8000050_00",
+      "actualLastStarted":"8000152",
+      "finalStationName":"Nürnberg Hbf",
+      "finalStationEvaNr":"8000284_00"},
+      "stops":[
+        {
+          "station":{
+            "evaNr":"8000050_00",
+            "name":"Bremen Hbf",
+            "geocoordinates":{"latitude":53.083481,"longitude":8.813834}
+          },
+          "timetable":
+            {
+              "scheduledArrivalTime":null,
+              "actualArrivalTime":null,
+              "arrivalDelay":"",
+              "scheduledDepartureTime":1508865300000,
+              "actualDepartureTime":1508865600000,
+              "departureDelay":"+5"
+            },
+          "track":
+            {
+              "scheduled":"6",
+              "actual":"6"},
+          "info":
+          {"status":0,"passed":true,"distance":0,"distanceFromStart":0},"delayReasons":null},{"station":{"evaNr":"8000152_00","name":"Hannover Hbf","geocoordinates":{"latitude":52.376761,"longitude":9.741021}},"timetable":{"scheduledArrivalTime":1508868840000,"actualArrivalTime":1508869020000,"arrivalDelay":"+3","scheduledDepartureTime":1508869560000,"actualDepartureTime":1508869560000,"departureDelay":""},"track":{"scheduled":"4 A-C","actual":"4 A-C"},"info":{"status":0,"passed":false,"distance":100392,"distanceFromStart":100392},"delayReasons":[{"code":"48","text":"Verspätung aus vorheriger Fahrt"}]},{"station":{"evaNr":"8000128_00","name":"Göttingen","geocoordinates":{"latitude":51.536815,"longitude":9.926072}},"timetable":{"scheduledArrivalTime":1508871600000,"actualArrivalTime":1508871660000,"arrivalDelay":"+1","scheduledDepartureTime":1508871720000,"actualDepartureTime":1508871780000,"departureDelay":"+1"},"track":{"scheduled":"10","actual":"10"},"info":{"status":0,"passed":false,"distance":94281,"distanceFromStart":194673},"delayReasons":[{"code":"48","text":"Verspätung aus vorheriger Fahrt"}]},{"station":{"evaNr":"8003200_00","name":"Kassel-Wilhelmshöhe","geocoordinates":{"latitude":51.313114,"longitude":9.446898}},"timetable":{"scheduledArrivalTime":1508872860000,"actualArrivalTime":1508872920000,"arrivalDelay":"+1","scheduledDepartureTime":1508872980000,"actualDepartureTime":1508873040000,"departureDelay":"+1"},"track":{"scheduled":"2","actual":"2"},"info":{"status":0,"passed":false,"distance":41515,"distanceFromStart":236188},"delayReasons":[{"code":"48","text":"Verspätung aus vorheriger Fahrt"}]},{"station":{"evaNr":"8000115_00","name":"Fulda","geocoordinates":{"latitude":50.554723,"longitude":9.683977}},"timetable":{"scheduledArrivalTime":1508874840000,"actualArrivalTime":1508874900000,"arrivalDelay":"+1","scheduledDepartureTime":1508874960000,"actualDepartureTime":1508875020000,"departureDelay":"+1"},"track":{"scheduled":"4","actual":"4"},"info":{"status":0,"passed":false,"distance":85974,"distanceFromStart":322162},"delayReasons":[{"code":"48","text":"Verspätung aus vorheriger Fahrt"}]},{"station":{"evaNr":"8000260_00","name":"Würzburg Hbf","geocoordinates":{"latitude":49.801796,"longitude":9.93578}},"timetable":{"scheduledArrivalTime":1508876820000,"actualArrivalTime":1508876940000,"arrivalDelay":"+2","scheduledDepartureTime":1508876940000,"actualDepartureTime":1508876940000,"departureDelay":""},"track":{"scheduled":"3","actual":"3"},"info":{"status":0,"passed":false,"distance":85644,"distanceFromStart":407806},"delayReasons":[{"code":"48","text":"Verspätung aus vorheriger Fahrt"}]},{"station":{"evaNr":"8000284_00","name":"Nürnberg Hbf","geocoordinates":{"latitude":49.445616,"longitude":11.082989}},"timetable":{"scheduledArrivalTime":1508880240000,"actualArrivalTime":1508880360000,"arrivalDelay":"+2","scheduledDepartureTime":null,"actualDepartureTime":null,"departureDelay":""},"track":{"scheduled":"9","actual":"9"},"info":{"status":0,"passed":false,"distance":91662,"distanceFromStart":499468},"delayReasons":[{"code":"48","text":"Verspätung aus vorheriger Fahrt"}]}]}
